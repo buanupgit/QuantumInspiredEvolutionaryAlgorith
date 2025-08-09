@@ -223,9 +223,7 @@ This implementation provides a controlled experimental environment for comparing
 
 The quantum-inspired features demonstrate practical application of quantum computing concepts:
 - **Superposition**: Multiple solution possibilities encoded simultaneously
-- **Interference**: Constructive/destructive combination of solution components
 - **Measurement**: Probabilistic extraction of classical solutions
-- **Entanglement**: Correlated evolution of customer assignments and ordering
 
 ## Academic Context
 
